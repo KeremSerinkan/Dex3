@@ -4,7 +4,7 @@
 //
 //  Created by Kerem Serinkan on 4.02.2025.
 //
-
+// Hello from XC 
 import SwiftUI
 import CoreData
 
